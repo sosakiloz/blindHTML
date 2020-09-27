@@ -13,7 +13,7 @@ namespace BlindHTML
             Console.Title = "BlindHTML [created by: @sosakiloz]";
             Console.WriteLine("Welcome to BlindHTML with ip logging proxies!");
             //Console.WriteLine("Processing documents...");
-            processdirs(args); //new[] { @"C:\Users\soulp\source\repos\BlindHTML\bin\Debug\netcoreapp3.1\fixed" });
+            processdirs(args);
             Console.WriteLine("Processing has finished.");
             Console.ReadLine();
         }
