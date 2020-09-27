@@ -1,0 +1,14 @@
+C:\Users\soulp\source\repos\BlindHTML\bin\Debug\netcoreapp3.1\BlindHTML.exe
+C:\Users\soulp\source\repos\BlindHTML\bin\Debug\netcoreapp3.1\BlindHTML.deps.json
+C:\Users\soulp\source\repos\BlindHTML\bin\Debug\netcoreapp3.1\BlindHTML.runtimeconfig.json
+C:\Users\soulp\source\repos\BlindHTML\bin\Debug\netcoreapp3.1\BlindHTML.runtimeconfig.dev.json
+C:\Users\soulp\source\repos\BlindHTML\bin\Debug\netcoreapp3.1\BlindHTML.dll
+C:\Users\soulp\source\repos\BlindHTML\bin\Debug\netcoreapp3.1\BlindHTML.pdb
+C:\Users\soulp\source\repos\BlindHTML\obj\Debug\netcoreapp3.1\BlindHTML.Properties.Resources.resources
+C:\Users\soulp\source\repos\BlindHTML\obj\Debug\netcoreapp3.1\BlindHTML.csproj.GenerateResource.cache
+C:\Users\soulp\source\repos\BlindHTML\obj\Debug\netcoreapp3.1\BlindHTML.csproj.CoreCompileInputs.cache
+C:\Users\soulp\source\repos\BlindHTML\obj\Debug\netcoreapp3.1\BlindHTML.AssemblyInfoInputs.cache
+C:\Users\soulp\source\repos\BlindHTML\obj\Debug\netcoreapp3.1\BlindHTML.AssemblyInfo.cs
+C:\Users\soulp\source\repos\BlindHTML\obj\Debug\netcoreapp3.1\BlindHTML.dll
+C:\Users\soulp\source\repos\BlindHTML\obj\Debug\netcoreapp3.1\BlindHTML.pdb
+C:\Users\soulp\source\repos\BlindHTML\obj\Debug\netcoreapp3.1\BlindHTML.genruntimeconfig.cache
